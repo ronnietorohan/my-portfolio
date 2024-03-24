@@ -1,0 +1,18 @@
+[
+    {
+      "title": "BitCoin-App",
+      "imageSrc": "./images/project.png",
+      "description": "This is a project made to learn how to handle external API's using React ,Chakra Css.",
+      "skills": ["React", "Javascript", "chakra","Css","Html"],
+      "demo": "https://remarkable-licorice-9b3670.netlify.app/",
+      "source": "https://github.com/ronnietorohan/project-bitcoin"
+    },
+    {
+      "title": "CRUD-Todos",
+      "imageSrc": "./images/project.png",
+      "description": "This is a project made to learn the React in depth, to understand CRUD operations.",
+      "skills": ["React", "Javascript", "Css", "Html"],
+      "demo": "https://mellow-gnome-384530.netlify.app/",
+      "source": "https://github.com/ronnietorohan/crud-todo"
+    }
+]
